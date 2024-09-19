@@ -16,6 +16,7 @@ export default function Header() {
         </span>
         Blog
       </Link>
+
       <form>
         <TextInput
           type="text"
